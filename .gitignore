@@ -10,3 +10,18 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Intellij IDEA related
+*.iml
+service/dependency-reduced-pom.xml
+.java-version
+
+.idea
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
